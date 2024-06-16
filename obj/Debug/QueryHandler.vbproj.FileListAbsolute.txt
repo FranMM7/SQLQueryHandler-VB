@@ -1,0 +1,10 @@
+C:\Users\frank\source\repos\QueryHandler\bin\Debug\QueryHandler.dll
+C:\Users\frank\source\repos\QueryHandler\bin\Debug\QueryHandler.pdb
+C:\Users\frank\source\repos\QueryHandler\bin\Debug\QueryHandler.xml
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.vbproj.AssemblyReference.cache
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.Resources.resources
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.vbproj.GenerateResource.cache
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.vbproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.dll
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.xml
+C:\Users\frank\source\repos\QueryHandler\obj\Debug\QueryHandler.pdb
