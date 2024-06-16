@@ -16,7 +16,7 @@ SqlQueryHandler is a robust and efficient VB.NET library for handling SQL querie
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/frankmejia7/QueryHandler.git
+    git clone https://github.com/frankmejia7/SQLQueryHandler-VB
     ```
 
 2. Open the project in Visual Studio.
